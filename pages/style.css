@@ -1,0 +1,41 @@
+body{
+    background-image: url('img/pink\ background.jpg');
+    background-repeat: no-repeat;
+    background-attachment: inherit;
+    background-size: cover;
+    text-align:center;
+    font-family:'Mali', cursive;
+}
+h2 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 300%;
+    text-align:center;
+    color: azure;
+}
+h1 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 300%;
+    text-align:center;
+    background-color:rgb(185, 113, 127);
+    color: azure;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.container{
+    width: 100%;
+}
+.bake{
+    font-size: 200%;
+    font-family: 'Nunito', sans-serif;
+}
+.font{
+    font-family:'Mali', cursive;
+}
+.circule{
+    border-radius: 50%;
+}
